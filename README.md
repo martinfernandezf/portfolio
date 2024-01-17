@@ -1,5 +1,6 @@
 # portfolio
 my personal portfolio changes
 
-*commit code
+*commit code(locally)
+
 *push code
