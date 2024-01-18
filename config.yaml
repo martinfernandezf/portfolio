@@ -1,0 +1,27 @@
+baseurl: https://martinfernandezf.github.io/
+title: Data Science PortFolio   
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+publishDir: "../martinfernandezf.github.io"
+params:
+  copyright: '&copy;2024 Martin Fernandez Figarola'
+  description: My personal portfolio
+  email: martinfernandezfigarola@gmail.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Articles
+      url: post/
+  sidebarAbout:
+    - I am a data scientist that loves to find insights and to always develop new skills in the field.
+    - Originally from Argentina, currently based in Buenos Aires.
+  social:
+    email: martinfernandezfigarola@gmail.com
+    github: https://github.com/martinfernandezf
+    linkedin: https://www.linkedin.com/in/martinfernandezf/
+  style: default
